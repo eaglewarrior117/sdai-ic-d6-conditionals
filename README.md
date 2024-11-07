@@ -20,15 +20,15 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-[ ]  Open the browser console and navigate to the console. It should look like this:
+[x]  Open the browser console and navigate to the console. It should look like this:
 
 ![example_1](./assets/code_examples/example_1.png)
 
-[ ] Let's create a variable called `currentTemperature` and set the value to 40.
+[x] Let's create a variable called `currentTemperature` and set the value to 40.
 
 ![example_2](./assets/code_examples/example_2.png)
 
-[ ] Let's create our first conditional to check if the `currentTemperature` is freezing. Write the following and then refresh the browser and check the console. You should see that it is not freezing. Now change the temperature to below 32 and refresh the page.
+[x] Let's create our first conditional to check if the `currentTemperature` is freezing. Write the following and then refresh the browser and check the console. You should see that it is not freezing. Now change the temperature to below 32 and refresh the page.
 
 ![example_3](./assets/code_examples/example_3.png)
 
